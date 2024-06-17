@@ -1,4 +1,4 @@
 ## ServerUIs
 todo: better name
 
-A WIP mod that allows Servers to send custom UI's to the Client
+A WIP mod that allows Servers to send custom UIs to the Client
