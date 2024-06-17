@@ -21,3 +21,6 @@ include("fabric")
 include("neoforge")
 
 rootProject.name = "ServerUIs"
+include("minestom")
+include("minestom:demo")
+findProject(":minestom:demo")?.name = "demo"
